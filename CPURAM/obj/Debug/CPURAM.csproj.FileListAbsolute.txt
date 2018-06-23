@@ -1,0 +1,12 @@
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\bin\Debug\CPURAM.exe.config
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\bin\Debug\CPURAM.exe
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\bin\Debug\CPURAM.pdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\bin\Debug\MetroFramework.Design.dll
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\bin\Debug\MetroFramework.dll
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\bin\Debug\MetroFramework.Fonts.dll
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\obj\Debug\CPURAM.csprojResolveAssemblyReference.cache
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\obj\Debug\CPURAM.Properties.Resources.resources
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\obj\Debug\CPURAM.csproj.GenerateResource.Cache
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\obj\Debug\CPURAM.exe
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\obj\Debug\CPURAM.pdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\CPURAM\CPURAM\obj\Debug\CPURAM.Form1.resources
